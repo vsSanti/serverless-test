@@ -1,0 +1,14 @@
+# package directories
+node_modules
+
+# Secret file
+secret.pem
+
+# Serverless directories
+.serverless
+
+# Webpack directories
+.webpack
+
+# Others
+.DS_Store
